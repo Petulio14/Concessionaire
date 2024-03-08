@@ -1,6 +1,7 @@
 import React from 'react'
 import { StyleSheet, Text, View } from 'react-native'
-import Catalog from './src/Screens/catalog'
+import Catalog from './src/Screens/Catalog'
+
 
 const App = () => {
   return (
